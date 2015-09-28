@@ -2,11 +2,14 @@
 
 ### Description
 
-Site designed to meet the requirements for the second code review of [Epicodus'](http://epicodus.com) Intro to Programming Course. September 2015
+[Site](http://dogpoetmike.github.io/second-code-review/) designed to meet the requirements for the second code review of [Epicodus'](http://epicodus.com) Intro to Programming Course. September 2015
 
 ### Author
 Mike McAllister
 [mikemcallister@mac.com](mailto:mikemcallister@mac.com)
+
+###Setup Requirements
+Click on the following [link](http://dogpoetmike.github.io/second-code-review/) or paste the link into the URL finder of any updated web broswer to view the project site.
 
 ### Legal
 
