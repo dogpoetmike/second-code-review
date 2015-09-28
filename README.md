@@ -9,7 +9,7 @@ Mike McAllister
 [mikemcallister@mac.com](mailto:mikemcallister@mac.com)
 
 ###Setup Requirements
-Click on the following [link](http://dogpoetmike.github.io/second-code-review/) or paste the link into the URL finder of any updated web broswer to view the project site.
+Click on the[this link](http://dogpoetmike.github.io/second-code-review/) or paste the link into the URL finder of any updated web broswer to view the project site.
 
 ### Legal
 
